@@ -1,0 +1,1 @@
+{"frames":{"bullet-03.png":{"frame":{"h":90,"idx":0,"w":60,"x":0,"y":0},"sourceSize":{"h":92,"w":62},"spriteSourceSize":{"x":0,"y":1}},"bullet-04.png":{"frame":{"h":89,"idx":0,"w":40,"x":61,"y":0},"sourceSize":{"h":89,"w":40},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet.png","prefix":"battle/enemy/bullet/"}}
