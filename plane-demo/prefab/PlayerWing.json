@@ -1,1 +1,0 @@
-{"type":"Sprite","props":{"y":0,"x":0,"width":50,"texture":"battle/player/wingplane/jg-1.png","scaleY":-0.5,"scaleX":0.5,"presetID":1,"pivotY":42,"pivotX":25,"name":"PlayerWing","isPresetRoot":true,"height":84},"compId":65,"loadList":["battle/player/wingplane/jg-1.png"],"loadList3D":[]}
