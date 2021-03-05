@@ -1,0 +1,1 @@
+{"type":"Label","props":{"y":0,"x":0,"width":52,"text":"-100","scaleY":1,"scaleX":1,"presetID":1,"name":"EnemyHPTip","isPresetRoot":true,"height":26,"fontSize":20,"font":"SimHei","color":"#ffffff","bold":true},"compId":85,"child":[{"type":"Script","props":{"presetID":2,"runtime":"app/battle/enemy/EnemyHPTip.ts"},"compId":87}],"loadList":[],"loadList3D":[]}
