@@ -1,1 +1,1 @@
-{"frames":{"b1.png":{"frame":{"h":225,"idx":0,"w":14,"x":66,"y":0},"sourceSize":{"h":225,"w":14},"spriteSourceSize":{"x":0,"y":0}},"bullet-r02-3.png":{"frame":{"h":293,"idx":0,"w":65,"x":0,"y":0},"sourceSize":{"h":377,"w":88},"spriteSourceSize":{"x":15,"y":0}}},"meta":{"image":"bullet.png","prefix":"battle/player/bullet/"}}
+{"frames":{"b1.png":{"frame":{"h":225,"idx":0,"w":14,"x":0,"y":0},"sourceSize":{"h":225,"w":14},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet.png","prefix":"battle/player/bullet/"}}

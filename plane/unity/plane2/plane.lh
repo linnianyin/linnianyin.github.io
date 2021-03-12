@@ -28,7 +28,7 @@
 				"type":"MeshSprite3D",
 				"instanceID":1,
 				"props":{
-					"name":"Plane_1",
+					"name":"Plane_2",
 					"active":true,
 					"isStatic":false,
 					"layer":0,
@@ -48,13 +48,13 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/Plane_1-Plane_1.lm",
+					"meshPath":"Assets/Plane_2-Plane_2.lm",
 					"enableRender":true,
 					"receiveShadows":true,
 					"castShadow":true,
 					"materials":[
 						{
-							"path":"Assets/Materials/Plane_2.lmat"
+							"path":"Assets/Materials/Plane_3.lmat"
 						}
 					]
 				},

@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":720,"top":0,"right":0,"left":0,"height":1280,"bottom":0},"compId":2,"child":[{"type":"Image","props":{"top":0,"skin":"lobby/lobby/bg_main.png","right":0,"name":"bg","left":0,"bottom":0},"compId":3}],"loadList":["lobby/lobby/bg_main.png"],"loadList3D":[]}

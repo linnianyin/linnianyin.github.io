@@ -1,1 +1,1 @@
-{"frames":{"1.png":{"frame":{"h":99,"idx":0,"w":98,"x":0,"y":0},"sourceSize":{"h":99,"w":98},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet2007.png","prefix":"battle/player/bullet/bullet2007/"}}
+{"frames":{"1.png":{"frame":{"h":99,"idx":0,"w":98,"x":167,"y":0},"sourceSize":{"h":99,"w":98},"spriteSourceSize":{"x":0,"y":0}},"毒球 拷贝 2.png":{"frame":{"h":326,"idx":0,"w":166,"x":0,"y":0},"sourceSize":{"h":326,"w":166},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet2007.png","prefix":"battle/player/bullet/bullet2007/"}}
