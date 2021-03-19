@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"presetID":1,"name":"PlayerPoisonBuff","isPresetRoot":true},"compId":64,"child":[{"type":"Image","props":{"y":0,"x":0,"skin":"battle/player/bullet/bullet2008/bd_1.png","presetID":2,"blendMode":"lighter","anchorY":0.5,"anchorX":0.5},"compId":71}],"loadList":["battle/player/bullet/bullet2008/bd_1.png"],"loadList3D":[]}

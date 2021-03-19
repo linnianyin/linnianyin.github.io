@@ -1,1 +1,1 @@
-{"frames":{"1.png":{"frame":{"h":57,"idx":0,"w":57,"x":0,"y":0},"sourceSize":{"h":57,"w":57},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet2008.png","prefix":"battle/player/bullet/bullet2008/"}}
+{"frames":{"1.png":{"frame":{"h":355,"idx":0,"w":244,"x":0,"y":0},"sourceSize":{"h":355,"w":244},"spriteSourceSize":{"x":0,"y":0}},"bd_1.png":{"frame":{"h":204,"idx":0,"w":204,"x":245,"y":0},"sourceSize":{"h":204,"w":204},"spriteSourceSize":{"x":0,"y":0}}},"meta":{"image":"bullet2008.png","prefix":"battle/player/bullet/bullet2008/"}}

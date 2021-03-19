@@ -38,10 +38,10 @@
 						0
 					],
 					"rotation":[
+						-0.7071068,
 						0,
 						0,
-						0,
-						-1
+						0.7071068
 					],
 					"scale":[
 						1,
@@ -97,7 +97,7 @@
 							}
 						]
 					},
-					"alignment":0,
+					"alignment":1,
 					"materials":[
 						{
 							"type":"Laya.TrailMaterial",
